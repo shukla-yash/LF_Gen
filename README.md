@@ -1,5 +1,5 @@
 # LF_Gen
-Code Base and Technical Appendix for LF_Gen Submission at SRL Workshop
+Code Base and Technical Appendix for Curriculum Schema Transfer
 
 The experiments were conducted using a 64-bit Linux Machine, having Intel(R) Core(TM) i9-9940X CPU @ 3.30GHz processor and 126GB RAM memory. The maximum duration for running the experiments was set at 24 hours.
 
